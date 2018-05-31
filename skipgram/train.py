@@ -13,7 +13,7 @@ import numpy as np
 #%% Parameters
 min_occurence = 2
 # Set to False if not preprocessed yet with this minimal occurence.
-load_sentences = True
+load_sentences = False
 embedding_dim = 300
 window_size = 5
 num_epochs = 20
