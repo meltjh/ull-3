@@ -2,7 +2,16 @@ Unsupervised Language Learning Assignment 3
 
 Melissa Tjhia (10761071)    
 Richard Olij (10833730)    
-###########################################    
+###########################################
+
+We could not store some of the trained data
+on github, instead download the models and 
+wordvectors from https://we.tl/VwpbTwvTu0
+
+The zips should be unzipped here
+skipgram/models.zip
+skipgram_data_trained/word_vectors.zip
+###########################################
 
 There is a folder called "skipgram", in which the skip gram models are trained.     
 The europarl folder should be in that folder.    
